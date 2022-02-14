@@ -1,5 +1,5 @@
 
-<h1>Olá, eu sou o Wallisson <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou o Wallisson</h1>
 
 <div align="center">
 <a href="https://github.com/wallissonmart">
@@ -7,9 +7,8 @@
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallissonmart&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block; gap: 60;"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  -
   <img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
