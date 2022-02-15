@@ -1,6 +1,7 @@
 
 <h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou o Wallisson</h1>
 
+## ⚡ GitHub Stats
 <div align="center">
 <a href="https://github.com/wallissonmart">
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=wallissonmart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
