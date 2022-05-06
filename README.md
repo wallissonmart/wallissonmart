@@ -9,7 +9,8 @@
 - 🤔 No momento meus estudos estão voltados para o front-end, mas a longo prazo pretendo me tornar um dev full-stack.
 - 💼 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💬 Fale comigo:
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
 
 ## ⚡ GitHub Stats
 <div align="center">
