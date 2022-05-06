@@ -1,7 +1,7 @@
 
 <h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou o Wallisson</h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JlxFcvNuzlPYA/giphy.gif" />
+
 
 ## Sobre mim
 
@@ -10,6 +10,8 @@
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JlxFcvNuzlPYA/giphy.gif" />
 
 ## ⚡ GitHub Stats
 <div align="center">
