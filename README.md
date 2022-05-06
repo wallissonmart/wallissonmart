@@ -4,11 +4,14 @@
 
 ## Sobre mim
 
-- 👨🏽‍💻 Atualmente estou desenvolvendo um projeto em PHP para o meu curso.
-- 🌱 Atualmente as tecnologias que mais tenho estudado são JavaScript TypeScript, React, e NodeJS. 
-- 🤔 No momento meus conhecimentos estão voltados para o front-end, mas a longo prazo pretendo me tornar um dev full-stack.
+- 👨🏽‍💻 Recentemente desenvolvi um projeto em PHP para o meu curso.
+- 🌱 Atualmente as tecnologias e linguagens que mais tenho estudado são JavaScript, TypeScript, React, e NodeJS. 
+- 🤔 No momento meus estudos estão voltados para o front-end, mas a longo prazo pretendo me tornar um dev full-stack.
 - 💼 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 💬 Fale comigo!
+- 💬 Fale comigo:
+<a href="https://www.linkedin.com/in/wallisson-martins-/">
+  <img align="left" alt="Linkedin Wallisson" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 ## ⚡ GitHub Stats
