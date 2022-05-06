@@ -10,9 +10,8 @@
 - 💼 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💬 Fale comigo:
 <a href="https://www.linkedin.com/in/wallisson-martins-/">
-  <img align="left" alt="Linkedin Wallisson" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Linkedin Wallisson" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 
 ## ⚡ GitHub Stats
 <div align="center">
