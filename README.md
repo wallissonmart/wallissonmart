@@ -1,17 +1,14 @@
-
 <h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou o Wallisson</h1>
 
-
-
 ## Sobre mim
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JlxFcvNuzlPYA/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JlxFcvNuzlPYA/giphy.gif" />
 
 ## ⚡ GitHub Stats
 <div align="center">
