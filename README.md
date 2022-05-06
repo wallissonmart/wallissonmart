@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 👨🏽‍💻 Recentemente desenvolvi um projeto em PHP para o meu curso.
-- 🌱 Atualmente as tecnologias e linguagens que mais tenho estudado são JavaScript, TypeScript, React, e NodeJS. 
+- 🌱 Atualmente as tecnologias e linguagens que mais tenho estudado são JavaScript, TypeScript, React e NodeJS. 
 - 🤔 No momento meus estudos estão voltados para o front-end, mas a longo prazo pretendo me tornar um dev full-stack.
 - 💼 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💬 Fale comigo:
