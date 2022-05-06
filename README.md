@@ -4,11 +4,11 @@
 
 ## Sobre mim
 
-- 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
+- 👨🏽‍💻 Atualmente estou desenvolvendo um projeto em PHP para o meu curso.
+- 🌱 Atualmente as tecnologias que mais tenho estudado são JavaScript TypeScript, React, e NodeJS. 
+- 🤔 No momento meus conhecimentos estão voltados para o front-end, mas a longo prazo pretendo me tornar um dev full-stack.
+- 💼 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 💬 Fale comigo!
 
 
 ## ⚡ GitHub Stats
