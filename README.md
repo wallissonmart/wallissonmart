@@ -10,6 +10,7 @@
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 
+
 ## ⚡ GitHub Stats
 <div align="center">
 <a href="https://github.com/wallissonmart">
