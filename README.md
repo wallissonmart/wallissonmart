@@ -1,8 +1,8 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou o Wallisson</h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JlxFcvNuzlPYA/giphy.gif" />
-
 ## Sobre mim
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JlxFcvNuzlPYA/giphy.gif" />
 
 - 👨🏽‍💻 Recentemente desenvolvi um projeto em PHP para o meu curso.
 - 🌱 Atualmente as tecnologias e linguagens que mais tenho estudado são JavaScript, TypeScript, React e NodeJS. 
