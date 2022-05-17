@@ -7,7 +7,7 @@
 - 👨🏽‍💻 Recentemente desenvolvi um projeto em PHP para o meu curso.
 - 🌱 Atualmente as tecnologias e linguagens que mais tenho estudado são JavaScript, TypeScript, React e NodeJS. 
 - 🤔 No momento meus estudos estão voltados para o front-end, mas a longo prazo pretendo me tornar um dev full-stack.
-- 💼 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 💼 Cursando Análise e Desenvolvimento de Sistemas.
 - 💬 Fale comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
