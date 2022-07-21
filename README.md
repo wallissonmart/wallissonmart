@@ -6,7 +6,6 @@
 
 - 👨🏽‍💻 Desenvolvi um sistema completo em PHP para o TCC do meu curso técnico.
 - 🌱 Atualmente as tecnologias e linguagens que mais tenho estudado são JavaScript, TypeScript, React e NodeJS. 
-- 🤔 No momento meus estudos estão voltados para o front-end, mas a longo prazo pretendo me tornar um dev full-stack.
 - 💼 Bootcamp Carrefour Web Developer, Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas.
 - 💬 Fale comigo:
 
