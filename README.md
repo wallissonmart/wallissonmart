@@ -2,8 +2,6 @@
 
 ## 🙋🏾‍♂️ About me 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JlxFcvNuzlPYA/giphy.gif" />
-
 - 👨🏽‍💻 Atualmente atuando como front-end.
 - 💼 Experiência em tecnologias como: Typescript, React, React Native & Node.
 - 💬 Fale comigo:
