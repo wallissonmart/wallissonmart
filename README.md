@@ -4,9 +4,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/JlxFcvNuzlPYA/giphy.gif" />
 
-- 👨🏽‍💻 Desenvolvi um sistema completo em PHP para o TCC do meu curso técnico.
-- 🌱 Atualmente as tecnologias e linguagens que mais tenho estudado são JavaScript, TypeScript, React e NodeJS. 
-- 💼 Bootcamp Carrefour Web Developer, Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas.
+- 👨🏽‍💻 Atualmente atuando como front-end.
+- 💼 Experiência em tecnologias como: Typescript, React, React Native & Node.
 - 💬 Fale comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
