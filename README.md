@@ -3,7 +3,7 @@
 ## 🙋🏾‍♂️ About me 
 
 - 👨🏽‍💻 Atualmente atuando como front-end.
-- 💼 Experiência em tecnologias como: Typescript, React, React Native & Node.
+- 💼 Experiência em tecnologias como: Typescript, React, React Native & Node.js.
 - 💬 Fale comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
