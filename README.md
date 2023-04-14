@@ -2,7 +2,7 @@
 
 ## 🙋🏾‍♂️ About me 
 
-- 👨🏽‍💻 Atualmente atuando como front-end.
+- 👨🏽‍💻 Desenvolvedor Front-End.
 - 💼 Experiência em tecnologias como: Typescript, React, React Native & Node.js.
 - 💬 Fale comigo:
 
