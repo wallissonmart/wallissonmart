@@ -1,10 +1,10 @@
-<h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, eu sou o Wallisson</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Wallisson</h1>
 
 ## 🙋🏾‍♂️ About me 
 
-- 👨🏽‍💻 Desenvolvedor Full-Stack.
-- 💼 Experiência em tecnologias como: Typescript, Next.js, React Native & Node.js.
-- 💬 Fale comigo:
+- 👨🏽‍💻 Full-stack Developer.
+- 💼 Experience in technologies such as: Typescript, Next.js, React Native, and Node.js.
+- 💬 Talk to me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
 
