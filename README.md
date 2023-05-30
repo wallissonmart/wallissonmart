@@ -2,8 +2,8 @@
 
 ## 🙋🏾‍♂️ About me 
 
-- 👨🏽‍💻 Full-stack Developer.
-- 💼 Experience in technologies such as: Typescript, Next.js, React Native, and Node.js.
+- 👨🏽‍💻 Full-Stack Developer.
+- 💼 Experience in technologies such as: TypeScript, Next.js, React Native, and Node.js.
 - 💬 Talk to me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
