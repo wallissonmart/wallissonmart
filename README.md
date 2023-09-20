@@ -14,5 +14,5 @@
   <img align="center" alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg"> 
   <img align="center" alt="React Native" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
   <img align="center" alt="Android Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="iOS" height="40" width="40" color="white" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"> 
+  <img align="center" alt="iOS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style="filter: invert(1); color: white;">
 </div>
