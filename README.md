@@ -10,10 +10,9 @@
 
 ## 🚀💻 Technologies & Tools
 <div style="display: inline_block"><br>
-  <img align="center" alt="Android Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg"> 
   <img align="center" alt="React Native" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
+  <img align="center" alt="Android Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="iOS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"> 
 </div>
