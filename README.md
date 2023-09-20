@@ -2,7 +2,7 @@
 
 ## 🙋🏾‍♂️ About me 
 
-- 👨🏽‍💻 Full-Stack Developer.
+- 👨🏽‍💻 Mobile Developer.
 - 💼 Experience in technologies such as: TypeScript, Next.js, React Native, and Node.js.
 - 💬 Talk to me:
 
