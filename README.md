@@ -3,7 +3,7 @@
 ## 🙋🏾‍♂️ About me 
 
 - 👨🏽‍💻 Mobile Developer.
-- 💼 Experience and expertise in technologies such as TypeScript, Kotlin, Node.js, React Native, and Kotlin.
+- 💼 Experience and expertise in technologies such as TypeScript, Kotlin, Node.js and React Native.
 - 💬 Talk to me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
