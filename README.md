@@ -2,7 +2,6 @@
 
 ## 🙋🏾‍♂️ About me 
 
-- 👨🏽‍💻 Mobile Developer.
 - 💼 Experience and expertise in technologies such as TypeScript, PHP, Kotlin, Node.js and React Native.
 - 💬 Contact me:
 
