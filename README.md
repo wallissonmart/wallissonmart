@@ -2,7 +2,7 @@
 
 ## 🙋🏾‍♂️ About me 
 
-- 💼 Experience and expertise in technologies such as TypeScript, PHP, Kotlin, React Native, 
+- 💼 Experience and expertise in technologies such as TypeScript, PHP, Kotlin, React Native, and Node.js.
 - 💬 Contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
