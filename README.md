@@ -1,6 +1,9 @@
 <h1>Hi, I'm Wallisson</h1>
 
-## 🙋🏾‍♂️ About me 
+## 🙋🏾‍♂️ About me
+
+- 💼 Experience and expertise in technologies such as TypeScript, PHP, Kotlin, React Native, and Node.js.
+- 💬 Contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wallisson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallisson-martins-/)](https://www.linkedin.com/in/wallisson-martins-/)
 
